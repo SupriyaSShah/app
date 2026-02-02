@@ -21,10 +21,10 @@
         },
         "data": {
             "title": "Mr. ",
-            "first name": "Jayantilal C.",
+            "first name": "Jayantilal",
             "last name": "Shah",
-            "Birth date": "1970",
-            "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg",
+            "Birth date": "",
+            "avatar": "",
             "gender": "M",
             "place": "Godhra",
             "nick name / AKA": "Master",
@@ -38,18 +38,25 @@
             "gender": "M",
             "first name": "Chunilal",
             "last name": "Shah",
-            "Birth date": "2-12-1870",
-            "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg",
+            "Birth date": "",
+            "avatar": "",
             "place": "Godhra",
             "origin": "Virpur, Gujarat",
             "nationality": "Indian"
         },
         "rels": {
             "children": [
-                "0"
+                "0",
+                "d7e1f1e9-e115-4987-87cc-ae1eb566be3c",
+                "1c5f9df6-7626-4328-b6d9-87df9db98b0e",
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "687978e0-2088-4bd4-a946-845170ce8576"
             ],
             "spouses": [
                 "107ff5d5-8256-40a1-abad-38fd74fc1633"
+            ],
+            "parents": [
+                "c2bab821-6967-47c1-82bf-4fdac817a403"
             ]
         }
     },
@@ -66,7 +73,8 @@
             "marriage date": "",
             "occupation": "",
             "address": "",
-            "nationality": "Indian"
+            "nationality": "Indian",
+            "avatar": "https://webapp-9wd.pages.dev/KJS.jpg"
         },
         "rels": {
             "spouses": [
@@ -86,13 +94,13 @@
     {
         "id": "3d9bd510-f753-42aa-ae22-65cd506bb9e9",
         "data": {
-            "title": "Mr. ",
+            "title": "Karsevak Mr. ",
             "gender": "M",
             "first name": "Anil J.",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "",
             "place": "Godhra",
+            "avatar": "https://webapp-9wd.pages.dev/AJS.jpg",
             "nationality": "Indian"
         },
         "rels": {
@@ -113,7 +121,7 @@
             "first name": "Shailesh",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/SJS.jpg",
             "nick name / AKA": "",
             "place": "Ahemdabad",
             "nationality": "Indian"
@@ -141,7 +149,7 @@
             "first name": "Kamlesh",
             "last name": "Sh",
             "Birth date": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/KJS2.jpg",
             "nick name / AKA": "KJ",
             "place": "Godhra",
             "nationality": "Indian"
@@ -170,7 +178,7 @@
             "last name": "Shah",
             "Birth date": "29 July 1957",
             "birth place": "Godhra, India",
-            "avatar": "https://raw.githubusercontent.com/kushalshah70/web/refs/heads/main/family-jcshah/images/SJS.jpg",
+            "avatar": "https://webapp-9wd.pages.dev/SJS2.jpg",
             "place": "Mumbai",
             "nationality": "Indian"
         },
@@ -215,7 +223,7 @@
             "first name": "Sandhya",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/SVS.jpg",
             "place": "Ahemdabad",
             "nationality": "Indian"
         },
@@ -223,6 +231,12 @@
             "parents": [
                 "0",
                 "63a595b8-b72a-4c80-9077-697769726061"
+            ],
+            "spouses": [
+                "012792ca-a368-4d99-927c-05bf6a1ac547"
+            ],
+            "children": [
+                "3824dc1d-c7eb-4004-862e-bb825e40dfd6"
             ]
         }
     },
@@ -234,7 +248,7 @@
             "first name": "Purnima",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/PKS.jpg",
             "nick name / AKA": "Baby",
             "place": "Ahemdabad",
             "nationality": "Indian"
@@ -243,6 +257,14 @@
             "parents": [
                 "0",
                 "63a595b8-b72a-4c80-9077-697769726061"
+            ],
+            "spouses": [
+                "da51bddc-9d96-4675-94b3-a427d7f2b91d"
+            ],
+            "children": [
+                "7a742bbe-00ba-42a4-9070-c2e9aa6d2936",
+                "860a1f4f-3b7a-4ddb-acd3-aa917bdc4152",
+                "3f09784b-18c6-48e8-94a9-d4c311712bb3"
             ]
         }
     },
@@ -254,7 +276,7 @@
             "first name": "Supriya",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "https://raw.githubusercontent.com/kushalshah70/web/refs/heads/main/family-jcshah/images/SSS.jpg",
+            "avatar": "https://webapp-9wd.pages.dev/SSS.jpg",
             "nick name / AKA": "Sheela / Priya",
             "origin": "",
             "place": "Mumbai",
@@ -277,10 +299,10 @@
             "gender": "M",
             "first name": "Kushal",
             "last name": "Shah",
-            "Birth date": "24-08-1992",
+            "Birth date": "24 August 1992",
             "birth place": "Mumbai, India",
             "place": "Mumbai",
-            "avatar": "https://raw.githubusercontent.com/kushalshah70/web/refs/heads/main/family-jcshah/images/ks.jpg",
+            "avatar": "https://webapp-9wd.pages.dev/ks.jpg",
             "nick name / AKA": "",
             "nationality": "Indian"
         },
@@ -301,8 +323,8 @@
             "gender": "F",
             "first name": "Puja",
             "last name": "Shah",
-            "Birth date": "10-12-1990",
-            "avatar": "",
+            "Birth date": "10 December 1990",
+            "avatar": "https://webapp-9wd.pages.dev/PMS.jpg",
             "nick name / AKA": "",
             "birth place": "Mumbai, India",
             "place": "Ontario",
@@ -325,8 +347,8 @@
             "gender": "F",
             "first name": "Jinisha",
             "last name": "Shah",
-            "Birth date": "23-04-1992",
-            "avatar": "https://raw.githubusercontent.com/kushalshah70/web/refs/heads/main/family-jcshah/images/JKS.jpg",
+            "Birth date": "23 April 1992",
+            "avatar": "https://webapp-9wd.pages.dev/JKS.jpg",
             "nick name / AKA": "Jini",
             "place": "Mumbai",
             "nationality": "Indian"
@@ -344,8 +366,8 @@
             "gender": "M",
             "first name": "Mihir",
             "last name": "Shah",
-            "Birth date": "",
-            "avatar": "",
+            "Birth date": "13 December 1987",
+            "avatar": "https://webapp-9wd.pages.dev/MSS3.jpg",
             "nick name / AKA": "",
             "place": "Ontario",
             "nationality": "Canadian"
@@ -359,12 +381,13 @@
     {
         "id": "be0b34e2-0b0d-4967-99bf-284da59ac777",
         "data": {
-            "title": "Mrs. ",
+            "title": "Karsevak Mrs. ",
             "gender": "F",
             "first name": "Usha",
             "last name": "Gandhi",
             "Birth date": "",
-            "avatar": "",
+            "birth place": "Lunawada, India",
+            "avatar": "https://webapp-9wd.pages.dev/HJS.jpg",
             "nick name / AKA": "Harsha",
             "place": "Godhra",
             "nationality": "Indian"
@@ -383,7 +406,7 @@
             "first name": "Dina",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/DKS.jpg",
             "place": "Godhra",
             "nick name / AKA": "",
             "nationality": "Indian"
@@ -406,7 +429,7 @@
             "gender": "F",
             "first name": "Megha",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "11 January",
             "avatar": "",
             "place": "Ahemdabad",
             "nick name / AKA": "",
@@ -426,7 +449,7 @@
             "gender": "M",
             "first name": "Badal",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "6 September",
             "avatar": "",
             "nick name / AKA": "",
             "place": "GA, USA",
@@ -451,10 +474,10 @@
         "data": {
             "title": "Mr. ",
             "gender": "M",
-            "first name": "Akash",
+            "first name": "Aakash",
             "last name": "Shah",
-            "Birth date": "",
-            "avatar": "",
+            "Birth date": "25 September",
+            "avatar": "https://webapp-9wd.pages.dev/AKS2.jpg",
             "nick name / AKA": "",
             "place": "Ahemdabad",
             "nationality": "Indian"
@@ -474,7 +497,7 @@
             "first name": "Meena",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/MSS.jpg",
             "place": "Ahemdabad",
             "nick name / AKA": "",
             "nationality": "Indian"
@@ -498,7 +521,7 @@
             "first name": "Milap",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/MSS2.jpg",
             "nick name / AKA": "",
             "place": "NJ, USA",
             "nationality": "American"
@@ -523,7 +546,7 @@
             "gender": "M",
             "first name": "Ashish",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "6 August",
             "avatar": "",
             "nick name / AKA": "",
             "place": "Ahemdabad",
@@ -551,7 +574,7 @@
             "first name": "Vishal",
             "last name": "Shah",
             "Birth date": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/VSS.jpg",
             "nick name / AKA": "Lalu",
             "place": "Pune",
             "nationality": "Indian"
@@ -596,8 +619,8 @@
             "gender": "F",
             "first name": "Dharti",
             "last name": "Shah",
-            "Birth date": "",
-            "avatar": "",
+            "Birth date": "13 November",
+            "avatar": "https://webapp-9wd.pages.dev/DVS.jpg",
             "nick name / AKA": "",
             "place": "Pune",
             "nationality": "Indian"
@@ -615,8 +638,8 @@
             "gender": "F",
             "first name": "Dhruvika",
             "last name": "Shah",
-            "Birth date": "",
-            "avatar": "",
+            "Birth date": "6 November",
+            "avatar": "https://webapp-9wd.pages.dev/DVS2.jpg",
             "nick name / AKA": "",
             "place": "Pune",
             "nationality": "Indian"
@@ -656,8 +679,8 @@
             "gender": "M",
             "first name": "Hersh",
             "last name": "Shah",
-            "Birth date": "",
-            "avatar": "",
+            "Birth date": "22 January",
+            "avatar": "https://webapp-9wd.pages.dev/HMS.jpg",
             "nick name / AKA": "",
             "place": "NJ, USA",
             "nationality": "American"
@@ -676,7 +699,7 @@
             "gender": "F",
             "first name": "Jinali",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "24 January",
             "avatar": "",
             "nick name / AKA": "Bosky",
             "place": "Ahemdabad",
@@ -699,7 +722,7 @@
             "gender": "M",
             "first name": "Yash",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "28 December",
             "avatar": "",
             "nick name / AKA": "Chatu",
             "place": "Ahemdabad",
@@ -719,7 +742,7 @@
             "gender": "M",
             "first name": "Vansh",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "28 September",
             "avatar": "",
             "nick name / AKA": "Gattu",
             "place": "Ahemdabad",
@@ -780,9 +803,9 @@
         "data": {
             "title": "Ms. ",
             "gender": "F",
-            "first name": "Helly",
+            "first name": "Helie",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "24 January",
             "avatar": "",
             "nick name / AKA": "",
             "place": "GA, USA",
@@ -809,10 +832,952 @@
         },
         "rels": {
             "children": [
-                "0"
+                "0",
+                "d7e1f1e9-e115-4987-87cc-ae1eb566be3c",
+                "1c5f9df6-7626-4328-b6d9-87df9db98b0e",
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "687978e0-2088-4bd4-a946-845170ce8576"
             ],
             "spouses": [
                 "77ee2491-2cf4-4de1-9a4b-93b55b694c4b"
+            ]
+        }
+    },
+    {
+        "id": "012792ca-a368-4d99-927c-05bf6a1ac547",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Virendra",
+            "last name": "Mehta",
+            "Birth date": "",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian",
+            "nick name / AKA": "VM"
+        },
+        "rels": {
+            "children": [
+                "3824dc1d-c7eb-4004-862e-bb825e40dfd6"
+            ],
+            "spouses": [
+                "311dd8c6-b8a8-4459-9c7a-dae535ab7d7e"
+            ]
+        }
+    },
+    {
+        "id": "3824dc1d-c7eb-4004-862e-bb825e40dfd6",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Utsav",
+            "last name": "Shah",
+            "Birth date": "4 October",
+            "nick name / AKA": "Bittu",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "parents": [
+                "012792ca-a368-4d99-927c-05bf6a1ac547",
+                "311dd8c6-b8a8-4459-9c7a-dae535ab7d7e"
+            ],
+            "children": [
+                "01f80306-a608-4a26-b687-eb2b54958cf5"
+            ],
+            "spouses": [
+                "4baf21fe-2ba3-4dfd-b678-e0044313fc1f"
+            ]
+        }
+    },
+    {
+        "id": "4baf21fe-2ba3-4dfd-b678-e0044313fc1f",
+        "data": {
+            "title": "Mrs. ",
+            "gender": "F",
+            "first name": "Nikita",
+            "last name": "",
+            "Birth date": "15 November",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "children": [
+                "01f80306-a608-4a26-b687-eb2b54958cf5"
+            ],
+            "spouses": [
+                "3824dc1d-c7eb-4004-862e-bb825e40dfd6"
+            ]
+        }
+    },
+    {
+        "id": "01f80306-a608-4a26-b687-eb2b54958cf5",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Hridaan",
+            "last name": "Shah",
+            "Birth date": "24 December",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "parents": [
+                "3824dc1d-c7eb-4004-862e-bb825e40dfd6",
+                "4baf21fe-2ba3-4dfd-b678-e0044313fc1f"
+            ]
+        }
+    },
+    {
+        "id": "da51bddc-9d96-4675-94b3-a427d7f2b91d",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Kaushik",
+            "last name": "Mehta",
+            "Birth date": "",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "children": [
+                "7a742bbe-00ba-42a4-9070-c2e9aa6d2936",
+                "860a1f4f-3b7a-4ddb-acd3-aa917bdc4152",
+                "3f09784b-18c6-48e8-94a9-d4c311712bb3"
+            ],
+            "spouses": [
+                "38a13ca1-bac2-4888-801c-6f4e4b215871"
+            ]
+        }
+    },
+    {
+        "id": "7a742bbe-00ba-42a4-9070-c2e9aa6d2936",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Ankur",
+            "last name": "Mehta",
+            "Birth date": "",
+            "avatar": "https://webapp-9wd.pages.dev/AKS.jpg",
+            "place": "Ahemdabad",
+            "nationality": "Indian",
+            "nick name / AKA": "Rinku"
+        },
+        "rels": {
+            "parents": [
+                "38a13ca1-bac2-4888-801c-6f4e4b215871",
+                "da51bddc-9d96-4675-94b3-a427d7f2b91d"
+            ],
+            "children": [
+                "08a2c961-a7bf-495b-9e23-9813e3445e7e"
+            ],
+            "spouses": [
+                "d2bdc4bb-cb98-4841-95c1-01c7ed8b6cc9"
+            ]
+        }
+    },
+    {
+        "id": "d2bdc4bb-cb98-4841-95c1-01c7ed8b6cc9",
+        "data": {
+            "title": "Mrs. ",
+            "gender": "F",
+            "first name": "Jaina",
+            "last name": "",
+            "Birth date": "3 February",
+            "avatar": "https://webapp-9wd.pages.dev/JAS.jpg",
+            "nick name / AKA": "Bharti",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "children": [
+                "08a2c961-a7bf-495b-9e23-9813e3445e7e"
+            ],
+            "spouses": [
+                "7a742bbe-00ba-42a4-9070-c2e9aa6d2936"
+            ]
+        }
+    },
+    {
+        "id": "08a2c961-a7bf-495b-9e23-9813e3445e7e",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Kathan",
+            "last name": "Mehta",
+            "Birth date": "31 December",
+            "avatar": "https://webapp-9wd.pages.dev/KAS.jpg",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "parents": [
+                "7a742bbe-00ba-42a4-9070-c2e9aa6d2936",
+                "d2bdc4bb-cb98-4841-95c1-01c7ed8b6cc9"
+            ]
+        }
+    },
+    {
+        "id": "860a1f4f-3b7a-4ddb-acd3-aa917bdc4152",
+        "data": {
+            "title": "Ms. ",
+            "gender": "F",
+            "first name": "Milli",
+            "last name": "",
+            "Birth date": "",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "parents": [
+                "38a13ca1-bac2-4888-801c-6f4e4b215871",
+                "da51bddc-9d96-4675-94b3-a427d7f2b91d"
+            ],
+            "children": [
+                "05f9a2c1-2075-4e25-a082-c3b707501bd0"
+            ]
+        }
+    },
+    {
+        "id": "3f09784b-18c6-48e8-94a9-d4c311712bb3",
+        "data": {
+            "title": "Mrs. ",
+            "gender": "F",
+            "first name": "Khushboo",
+            "last name": "Mehta",
+            "Birth date": "30 January",
+            "avatar": "",
+            "nick name / AKA": "Khushi",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "parents": [
+                "da51bddc-9d96-4675-94b3-a427d7f2b91d",
+                "38a13ca1-bac2-4888-801c-6f4e4b215871"
+            ],
+            "children": [
+                "1f1158bf-fa97-4b2f-bbf3-133afb4c7113"
+            ],
+            "spouses": [
+                "6fe1fab1-ee03-4d38-b626-32438278918c"
+            ]
+        }
+    },
+    {
+        "id": "6fe1fab1-ee03-4d38-b626-32438278918c",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Sudeep",
+            "last name": "",
+            "Birth date": "",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "children": [
+                "1f1158bf-fa97-4b2f-bbf3-133afb4c7113"
+            ],
+            "spouses": [
+                "3f09784b-18c6-48e8-94a9-d4c311712bb3"
+            ]
+        }
+    },
+    {
+        "id": "1f1158bf-fa97-4b2f-bbf3-133afb4c7113",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Moksh",
+            "last name": "",
+            "Birth date": "16 March 2022",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "parents": [
+                "6fe1fab1-ee03-4d38-b626-32438278918c",
+                "3f09784b-18c6-48e8-94a9-d4c311712bb3"
+            ]
+        }
+    },
+    {
+        "id": "05f9a2c1-2075-4e25-a082-c3b707501bd0",
+        "data": {
+            "title": "Ms. ",
+            "gender": "F",
+            "first name": "Reeva",
+            "last name": "",
+            "Birth date": "",
+            "avatar": "",
+            "place": "Ahemdabad",
+            "nationality": "Indian"
+        },
+        "rels": {
+            "parents": [
+                "860a1f4f-3b7a-4ddb-acd3-aa917bdc4152"
+            ]
+        }
+    },
+    {
+        "id": "d7e1f1e9-e115-4987-87cc-ae1eb566be3c",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Suresh Chandra",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "77ee2491-2cf4-4de1-9a4b-93b55b694c4b",
+                "107ff5d5-8256-40a1-abad-38fd74fc1633"
+            ],
+            "children": [
+                "939998cb-711f-4c99-aae1-873275645325",
+                "f2a1ad64-9248-405d-bf9d-91734f724663",
+                "2c0bd9c8-44ea-446d-a8f8-aa2fa33c77e1"
+            ],
+            "spouses": [
+                "48d96fde-004b-47c8-baed-aa88e648180d"
+            ]
+        }
+    },
+    {
+        "id": "1c5f9df6-7626-4328-b6d9-87df9db98b0e",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Ashok",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "77ee2491-2cf4-4de1-9a4b-93b55b694c4b",
+                "107ff5d5-8256-40a1-abad-38fd74fc1633"
+            ],
+            "children": [
+                "4ba8ab54-2ceb-4185-98e7-e67c144321c9",
+                "e67a6250-2cc8-4ff6-9b03-7e1c54a9eff8",
+                "9335f8ef-a20e-45f6-bedd-94c978512699"
+            ],
+            "spouses": [
+                "0248b4a7-fdb1-4610-906f-28c473404fdb"
+            ]
+        }
+    },
+    {
+        "id": "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+        "data": {
+            "gender": "F",
+            "first name": "Kamala",
+            "last name": "Gandhi",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "77ee2491-2cf4-4de1-9a4b-93b55b694c4b",
+                "107ff5d5-8256-40a1-abad-38fd74fc1633"
+            ],
+            "children": [
+                "7591c910-a186-40ba-96de-78bf3f10c5c3",
+                "4173e63f-e4a9-46f4-b906-bbc1f7f2847b",
+                "68d3ca45-a1ee-4dfa-8fa4-214fb5624870",
+                "d30db9a8-d63a-43f6-81e0-7d2ed26ad9d0",
+                "aae923c9-c6de-4289-a4d4-7f5be1ead65b",
+                "d83517f8-2097-479e-9bc4-de2add17cda4",
+                "b85a73b8-b93a-4235-a41b-5cd24f94d6a0"
+            ],
+            "spouses": [
+                "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ]
+        }
+    },
+    {
+        "id": "687978e0-2088-4bd4-a946-845170ce8576",
+        "data": {
+            "gender": "F",
+            "first name": "Kusum",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "77ee2491-2cf4-4de1-9a4b-93b55b694c4b",
+                "107ff5d5-8256-40a1-abad-38fd74fc1633"
+            ],
+            "spouses": [
+                "5dbe107f-7170-41ce-a528-e915d2b209bc"
+            ]
+        }
+    },
+    {
+        "id": "0248b4a7-fdb1-4610-906f-28c473404fdb",
+        "data": {
+            "title": "Mrs. ",
+            "gender": "F",
+            "first name": "Jyotsna",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "children": [
+                "4ba8ab54-2ceb-4185-98e7-e67c144321c9",
+                "e67a6250-2cc8-4ff6-9b03-7e1c54a9eff8",
+                "9335f8ef-a20e-45f6-bedd-94c978512699"
+            ],
+            "spouses": [
+                "1c5f9df6-7626-4328-b6d9-87df9db98b0e"
+            ]
+        }
+    },
+    {
+        "id": "48d96fde-004b-47c8-baed-aa88e648180d",
+        "data": {
+            "gender": "F",
+            "first name": "Renuka",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "children": [
+                "939998cb-711f-4c99-aae1-873275645325",
+                "f2a1ad64-9248-405d-bf9d-91734f724663",
+                "2c0bd9c8-44ea-446d-a8f8-aa2fa33c77e1"
+            ],
+            "spouses": [
+                "d7e1f1e9-e115-4987-87cc-ae1eb566be3c"
+            ]
+        }
+    },
+    {
+        "id": "64b3d082-1dcc-409a-959d-eef75ece58c9",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Kaantilal",
+            "last name": "Gandhi",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "children": [
+                "7591c910-a186-40ba-96de-78bf3f10c5c3",
+                "4173e63f-e4a9-46f4-b906-bbc1f7f2847b",
+                "68d3ca45-a1ee-4dfa-8fa4-214fb5624870",
+                "d30db9a8-d63a-43f6-81e0-7d2ed26ad9d0",
+                "aae923c9-c6de-4289-a4d4-7f5be1ead65b",
+                "d83517f8-2097-479e-9bc4-de2add17cda4",
+                "b85a73b8-b93a-4235-a41b-5cd24f94d6a0"
+            ],
+            "spouses": [
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1"
+            ]
+        }
+    },
+    {
+        "id": "5dbe107f-7170-41ce-a528-e915d2b209bc",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Sara Lal",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "spouses": [
+                "687978e0-2088-4bd4-a946-845170ce8576"
+            ]
+        }
+    },
+    {
+        "id": "939998cb-711f-4c99-aae1-873275645325",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Mayur",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "d7e1f1e9-e115-4987-87cc-ae1eb566be3c",
+                "48d96fde-004b-47c8-baed-aa88e648180d"
+            ]
+        }
+    },
+    {
+        "id": "f2a1ad64-9248-405d-bf9d-91734f724663",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Ajay",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "d7e1f1e9-e115-4987-87cc-ae1eb566be3c",
+                "48d96fde-004b-47c8-baed-aa88e648180d"
+            ]
+        }
+    },
+    {
+        "id": "2c0bd9c8-44ea-446d-a8f8-aa2fa33c77e1",
+        "data": {
+            "gender": "F",
+            "first name": "Preeti",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "d7e1f1e9-e115-4987-87cc-ae1eb566be3c",
+                "48d96fde-004b-47c8-baed-aa88e648180d"
+            ]
+        }
+    },
+    {
+        "id": "4ba8ab54-2ceb-4185-98e7-e67c144321c9",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Manthan",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "1c5f9df6-7626-4328-b6d9-87df9db98b0e",
+                "0248b4a7-fdb1-4610-906f-28c473404fdb"
+            ]
+        }
+    },
+    {
+        "id": "e67a6250-2cc8-4ff6-9b03-7e1c54a9eff8",
+        "data": {
+            "gender": "F",
+            "first name": "Purni",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "1c5f9df6-7626-4328-b6d9-87df9db98b0e",
+                "0248b4a7-fdb1-4610-906f-28c473404fdb"
+            ]
+        }
+    },
+    {
+        "id": "9335f8ef-a20e-45f6-bedd-94c978512699",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Dhaval",
+            "last name": "Shah",
+            "birthday": "",
+            "avatar": "",
+            "place": "Pune"
+        },
+        "rels": {
+            "parents": [
+                "1c5f9df6-7626-4328-b6d9-87df9db98b0e",
+                "0248b4a7-fdb1-4610-906f-28c473404fdb"
+            ],
+            "children": [
+                "3ec85577-177f-4dcb-a92e-71579f8d8b59"
+            ],
+            "spouses": [
+                "3016cc2c-e9bf-45a3-988a-438126e0203f"
+            ]
+        }
+    },
+    {
+        "id": "3016cc2c-e9bf-45a3-988a-438126e0203f",
+        "data": {
+            "title": "Mrs. ",
+            "gender": "F",
+            "first name": "Rupal",
+            "last name": "Shah",
+            "birthday": "",
+            "avatar": "",
+            "place": "Pune"
+        },
+        "rels": {
+            "children": [
+                "3ec85577-177f-4dcb-a92e-71579f8d8b59"
+            ],
+            "spouses": [
+                "9335f8ef-a20e-45f6-bedd-94c978512699"
+            ]
+        }
+    },
+    {
+        "id": "3ec85577-177f-4dcb-a92e-71579f8d8b59",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Shlok",
+            "last name": "Shah",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "9335f8ef-a20e-45f6-bedd-94c978512699",
+                "3016cc2c-e9bf-45a3-988a-438126e0203f"
+            ]
+        }
+    },
+    {
+        "id": "7591c910-a186-40ba-96de-78bf3f10c5c3",
+        "data": {
+            "title": "Dr. ",
+            "gender": "F",
+            "first name": "Rajula",
+            "last name": "",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "parents": [
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ],
+            "children": [
+                "91d5c0aa-7be8-4bbf-857e-09a0d6a74400",
+                "0baf28a8-a339-463f-aac5-4453afd870fc"
+            ],
+            "spouses": [
+                "070f7d5e-d340-4a1e-a647-972c93c56757"
+            ]
+        }
+    },
+    {
+        "id": "070f7d5e-d340-4a1e-a647-972c93c56757",
+        "data": {
+            "title": "Dr. ",
+            "gender": "M",
+            "first name": "Hasmukh Lal",
+            "last name": "",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "children": [
+                "91d5c0aa-7be8-4bbf-857e-09a0d6a74400",
+                "0baf28a8-a339-463f-aac5-4453afd870fc"
+            ],
+            "spouses": [
+                "7591c910-a186-40ba-96de-78bf3f10c5c3"
+            ]
+        }
+    },
+    {
+        "id": "91d5c0aa-7be8-4bbf-857e-09a0d6a74400",
+        "data": {
+            "title": "Dr. ",
+            "gender": "M",
+            "first name": "Deval",
+            "last name": "",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "parents": [
+                "7591c910-a186-40ba-96de-78bf3f10c5c3",
+                "070f7d5e-d340-4a1e-a647-972c93c56757"
+            ],
+            "spouses": [
+                "a4343d53-edfd-437a-abff-68e2a24a711a"
+            ]
+        }
+    },
+    {
+        "id": "0baf28a8-a339-463f-aac5-4453afd870fc",
+        "data": {
+            "gender": "F",
+            "first name": "Kinjal",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "7591c910-a186-40ba-96de-78bf3f10c5c3",
+                "070f7d5e-d340-4a1e-a647-972c93c56757"
+            ]
+        }
+    },
+    {
+        "id": "a4343d53-edfd-437a-abff-68e2a24a711a",
+        "data": {
+            "gender": "F",
+            "first name": "Meenal",
+            "last name": "",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "spouses": [
+                "91d5c0aa-7be8-4bbf-857e-09a0d6a74400"
+            ]
+        }
+    },
+    {
+        "id": "4173e63f-e4a9-46f4-b906-bbc1f7f2847b",
+        "data": {
+            "gender": "F",
+            "first name": "Sarala",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ]
+        }
+    },
+    {
+        "id": "68d3ca45-a1ee-4dfa-8fa4-214fb5624870",
+        "data": {
+            "gender": "F",
+            "first name": "Harsha",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ]
+        }
+    },
+    {
+        "id": "d30db9a8-d63a-43f6-81e0-7d2ed26ad9d0",
+        "data": {
+            "title": "Dr. ",
+            "gender": "F",
+            "first name": "Vasanti",
+            "last name": "",
+            "birthday": "",
+            "avatar": "",
+            "place": "USA"
+        },
+        "rels": {
+            "parents": [
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ]
+        }
+    },
+    {
+        "id": "aae923c9-c6de-4289-a4d4-7f5be1ead65b",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Shrenik",
+            "last name": "Gandhi",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "parents": [
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ]
+        }
+    },
+    {
+        "id": "d83517f8-2097-479e-9bc4-de2add17cda4",
+        "data": {
+            "gender": "F",
+            "first name": "Purnima",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ]
+        }
+    },
+    {
+        "id": "b85a73b8-b93a-4235-a41b-5cd24f94d6a0",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Paras",
+            "last name": "Gandhi",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "parents": [
+                "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
+                "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ],
+            "spouses": [
+                "81225aa8-d29f-4d6d-bba1-1a6bf29081cf"
+            ],
+            "children": [
+                "8a4a11f9-7691-416a-8bcd-786ee27226b2"
+            ]
+        }
+    },
+    {
+        "id": "81225aa8-d29f-4d6d-bba1-1a6bf29081cf",
+        "data": {
+            "title": "Mrs. ",
+            "gender": "F",
+            "first name": "Rajeshree",
+            "last name": "",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "children": [
+                "8a4a11f9-7691-416a-8bcd-786ee27226b2"
+            ],
+            "spouses": [
+                "b85a73b8-b93a-4235-a41b-5cd24f94d6a0"
+            ]
+        }
+    },
+    {
+        "id": "8a4a11f9-7691-416a-8bcd-786ee27226b2",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Akshat",
+            "last name": "Gandhi",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "parents": [
+                "b85a73b8-b93a-4235-a41b-5cd24f94d6a0",
+                "81225aa8-d29f-4d6d-bba1-1a6bf29081cf"
+            ],
+            "spouses": [
+                "c9bb5260-da1c-46f9-a319-5dc6796e8a98"
+            ]
+        }
+    },
+    {
+        "id": "c9bb5260-da1c-46f9-a319-5dc6796e8a98",
+        "data": {
+            "title": "Mrs. ",
+            "gender": "F",
+            "first name": "Aanchal",
+            "last name": "S.",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "spouses": [
+                "8a4a11f9-7691-416a-8bcd-786ee27226b2"
+            ]
+        }
+    },
+    {
+        "id": "c2bab821-6967-47c1-82bf-4fdac817a403",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Nathji",
+            "last name": "Mudha",
+            "birthday": "",
+            "avatar": "",
+            "nick name / AKA": "Mulji"
+        },
+        "rels": {
+            "children": [
+                "77ee2491-2cf4-4de1-9a4b-93b55b694c4b",
+                "43f0adfb-2501-461c-b994-9014ed1bc2e6",
+                "535fd43a-c7e3-48cb-923d-a5bea9a55f01",
+                "1efdc53c-add1-4458-bc5a-36ebad12be3a"
+            ]
+        }
+    },
+    {
+        "id": "43f0adfb-2501-461c-b994-9014ed1bc2e6",
+        "data": {
+            "title": "Mr. ",
+            "gender": "M",
+            "first name": "Pana Chand",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "c2bab821-6967-47c1-82bf-4fdac817a403"
+            ]
+        }
+    },
+    {
+        "id": "535fd43a-c7e3-48cb-923d-a5bea9a55f01",
+        "data": {
+            "gender": "F",
+            "first name": "Bhadra",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "c2bab821-6967-47c1-82bf-4fdac817a403"
+            ]
+        }
+    },
+    {
+        "id": "1efdc53c-add1-4458-bc5a-36ebad12be3a",
+        "data": {
+            "gender": "F",
+            "first name": "Chanchad",
+            "last name": "",
+            "birthday": "",
+            "avatar": ""
+        },
+        "rels": {
+            "parents": [
+                "c2bab821-6967-47c1-82bf-4fdac817a403"
             ]
         }
     }
