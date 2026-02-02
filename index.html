@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>J.C. Shah Family</title>
+  <script src="js/d3.min.js"></script>
+  <!-- <script type="module" src="https://unpkg.com/family-chart@0.9.0"></script> -->
+  <script type="module" src="js/family-chart.min.js"></script>
+  <link rel="stylesheet" href="css/family-chart.css">
+  <style> * {margin: 0; padding: 0; box-sizing: border-box;} body { font-family: 'Arial', sans-serif; } </style>
+</head>
+<body>
+
+<div id="FamilyChart" class="f3" style="width:100%; height: 100vh; min-height:500px; margin:auto;background-color:rgb(33,33,33);color:#fff;"></div>
+
+<div class="marque-wrap">
+  <marquee class="marquee" behavior="scroll" direction="left" scrollamount="6" onmouseover="this.stop();" onmouseout="this.start();">
+    <span>J.C. Shah Family [📍 <a href="https://www.google.com/maps/place/Virpur,+Gujarat+388260/@23.1884997,73.4794219,17.66z/data=!4m15!1m8!3m7!1s0x3960aa148711a629:0x1775a032f1edc23!2sVirpur,+Gujarat+388260!3b1!8m2!3d23.1886209!4d73.4798916!16s%2Fg%2F11c1pf_fpc!3m5!1s0x3960aa148711a629:0x1775a032f1edc23!8m2!3d23.1886209!4d73.4798916!16s%2Fg%2F11c1pf_fpc?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D" target="_blank">વીરપુર (Virpur)</a> ] </span>&nbsp; | &nbsp;<span> Religion - જૈન (Jain) </span> &nbsp; | &nbsp; <span> મુખ્ય સિદ્ધાંત - ૧: અહિંસા (અર્થ: મન, વાણી કે કર્મથી કોઈપણ જીવને નુકસાન ન પહોંચાડવું), &nbsp; ૨: અપરિગ્રહ (અનાવશ્યક સંચય કે સંગ્રહ ન કરવાની વૃત્તિ. જરૂરિયાત પૂરતું જ રાખવું અને બાકીનું ત્યાગવું.  ભૌતિક વસ્તુઓ જ નહીં, પણ વિચારો અને મનની માલિકીભાવના ત્યાગ સુધી વિસ્તરે છે), &nbsp; ૩: અનેકાંતવાદ (વાસ્તવિકતા જટિલ છે અને તેના બહુવિધ પાસાઓ છે. સત્ય એકપક્ષીય નથી, પરંતુ અનેક દૃષ્ટિકોણો ધરાવે છે. અર્થ: 'અનેક+અંત+વાદ' (બહુ-પક્ષીયતા). વસ્તુના અસંખ્ય ગુણધર્મો હોય છે, જેને સંપૂર્ણપણે જાણવા માનવી માટે મુશ્કેલ છે, તેથી માત્ર એક દૃષ્ટિકોણ સત્ય ન હોઈ શકે.)</span>
+  </marquee>
+</div>
+
+<div class="updated-wrap">Last Updated: February 2026 </div>
+
+<script type="module">
+
+  async function init() {
+    try {
+      const data = await fetchData();
+      create(data);
+    } catch (error) {
+      console.error('Error loading data:', error);
+    }
+  }
+
+  async function fetchData() {
+    const response = await fetch('data.json');
+    if (!response.ok) {
+      throw new Error('Failed to load JSON data');
+    }
+    const jsonData = await response.json();
+    // console.log('Data loaded:', jsonData);
+    return jsonData;
+  }
+
+  function create(data) {
+    const f3Chart = f3.createChart('#FamilyChart', data)
+      .setTransitionTime(1000)
+      .setCardXSpacing(250)
+      .setCardYSpacing(150)
+      // .setSingleParentEmptyCard(true, {label: 'ADD'})
+      .setSingleParentEmptyCard(false, {label: 'ADD'})
+      .setShowSiblingsOfMain(true)
+      .setOrientationVertical();
+
+    const f3Card = f3Chart.setCardHtml()
+      .setCardDisplay([["title","first name","last name"],["place"]])
+      .setCardDim({})
+      .setMiniTree(true)
+      .setStyle('imageCircle')
+      .setOnHoverPathToMain();
+
+    const f3EditTree = f3Chart.editTree()
+      .fixed(true)
+      .setFields(["title", "first name", "last name", "nick name / AKA", "Birth date", "birth place", "origin", "nationality"])
+      .setEditFirst(false)
+      .setCardClickOpen(f3Card);
+    
+    //  f3EditTree.setEdit()
+    f3EditTree.setNoEdit();
+
+    f3Chart.updateTree({initial: true});
+    f3EditTree.open(f3Chart.getMainDatum());
+
+    f3Chart.updateTree({initial: true});
+  }
+
+  init();
+</script>
+
+</body>
+</html>
