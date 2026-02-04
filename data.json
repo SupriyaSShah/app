@@ -430,7 +430,7 @@
             "first name": "Megha",
             "last name": "Shah",
             "Birth date": "11 January",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/MKS.jpg",
             "place": "Ahemdabad",
             "nick name / AKA": "",
             "nationality": "Indian"
@@ -874,7 +874,7 @@
             "last name": "Shah",
             "Birth date": "4 October",
             "nick name / AKA": "Bittu",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/UVS.jpg",
             "place": "Ahemdabad",
             "nationality": "Indian"
         },
@@ -1397,7 +1397,7 @@
             "first name": "Dhaval",
             "last name": "Shah",
             "birthday": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/DAS.jpg",
             "place": "Pune"
         },
         "rels": {
@@ -1685,7 +1685,7 @@
             "first name": "Akshat",
             "last name": "Gandhi",
             "birthday": "",
-            "avatar": "",
+            "avatar": "https://webapp-9wd.pages.dev/APG.jpg",
             "place": "Godhra"
         },
         "rels": {
