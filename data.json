@@ -120,7 +120,7 @@
             "gender": "M",
             "first name": "Shailesh",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "24 March 1952",
             "avatar": "https://webapp-9wd.pages.dev/SJS.jpg",
             "nick name / AKA": "",
             "place": "Ahemdabad",
@@ -203,7 +203,7 @@
             "gender": "M",
             "first name": "Sandip",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "7 March",
             "avatar": "",
             "place": "Godhra",
             "nationality": "Indian"
@@ -405,7 +405,7 @@
             "gender": "F",
             "first name": "Dina",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "20 March",
             "avatar": "https://webapp-9wd.pages.dev/DKS.jpg",
             "place": "Godhra",
             "nick name / AKA": "",
@@ -496,7 +496,7 @@
             "gender": "F",
             "first name": "Meena",
             "last name": "Shah",
-            "Birth date": "",
+            "Birth date": "12 December 1952",
             "avatar": "https://webapp-9wd.pages.dev/MSS.jpg",
             "place": "Ahemdabad",
             "nick name / AKA": "",
@@ -546,7 +546,7 @@
             "gender": "M",
             "first name": "Ashish",
             "last name": "Shah",
-            "Birth date": "6 August",
+            "Birth date": "6 August 1977",
             "avatar": "",
             "nick name / AKA": "",
             "place": "Ahemdabad",
@@ -699,7 +699,7 @@
             "gender": "F",
             "first name": "Jinali",
             "last name": "Shah",
-            "Birth date": "24 January",
+            "Birth date": "24 January 1982",
             "avatar": "",
             "nick name / AKA": "Bosky",
             "place": "Ahemdabad",
@@ -722,7 +722,7 @@
             "gender": "M",
             "first name": "Yash",
             "last name": "Shah",
-            "Birth date": "28 December",
+            "Birth date": "28 December 2005",
             "avatar": "",
             "nick name / AKA": "Chatu",
             "place": "Ahemdabad",
@@ -742,7 +742,7 @@
             "gender": "M",
             "first name": "Vansh",
             "last name": "Shah",
-            "Birth date": "28 September",
+            "Birth date": "28 September 2010",
             "avatar": "",
             "nick name / AKA": "Gattu",
             "place": "Ahemdabad",
@@ -849,7 +849,7 @@
             "title": "Mr. ",
             "gender": "M",
             "first name": "Virendra",
-            "last name": "Mehta",
+            "last name": "Shah",
             "Birth date": "",
             "avatar": "",
             "place": "Ahemdabad",
@@ -1377,7 +1377,7 @@
         "id": "e67a6250-2cc8-4ff6-9b03-7e1c54a9eff8",
         "data": {
             "gender": "F",
-            "first name": "Purni",
+            "first name": "Pinki",
             "last name": "",
             "birthday": "",
             "avatar": ""
@@ -1614,6 +1614,26 @@
             "parents": [
                 "85ce2fb8-94f3-45f1-9ad6-e86e76686be1",
                 "64b3d082-1dcc-409a-959d-eef75ece58c9"
+            ],
+            "spouses": [
+                "81225aa8-d29f-4d6d-bba1-kuku1"
+            ]
+        }
+    },
+    {
+        "id": "81225aa8-d29f-4d6d-bba1-kuku1",
+        "data": {
+            "title": "Mrs. ",
+            "gender": "F",
+            "first name": "Rashila",
+            "last name": "Gandhi",
+            "birthday": "",
+            "avatar": "",
+            "place": "Godhra"
+        },
+        "rels": {
+            "spouses": [
+                "aae923c9-c6de-4289-a4d4-7f5be1ead65b"
             ]
         }
     },
@@ -1770,7 +1790,7 @@
         "id": "1efdc53c-add1-4458-bc5a-36ebad12be3a",
         "data": {
             "gender": "F",
-            "first name": "Chanchad",
+            "first name": "Chanchi",
             "last name": "",
             "birthday": "",
             "avatar": ""
